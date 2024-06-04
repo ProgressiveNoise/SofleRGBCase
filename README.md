@@ -1,5 +1,7 @@
 # Cool Sofle RGB Case
 
+This is a decent and beautiful case for the Sofle RGB keyboard.
+
 ![Image 1](/images/render.webp)
 
 - Keyboards look like a finished device.
